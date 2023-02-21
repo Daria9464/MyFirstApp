@@ -1,2 +1,0 @@
-# MyFirstApp
-## CISC 3171-PROJECT
